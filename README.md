@@ -15,6 +15,8 @@ The program generates random winning numbers until the user's selected numbers m
 <h3>Results:</h3>  
 
 The program displays the winning combination, the number of drawings it took to win, and the estimated time to win based on two drawings per week.
+<p><i><b>Note:</b> This simulation can take hours to complete due to the number of print statements. It is reccomended to run through a command line(CMD) as it will be much faster than using IDLE shell. You could also alter the code to run a set number of drawings instead of drawing until there is a winner, or remove the print statements for each drawing, and only have it print the final drawing.</i></p>
+
 <h2>Usage</h2>
 Run the script in a Python environment.
 Enter six unique numbers when prompted.
